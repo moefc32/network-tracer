@@ -1,0 +1,15 @@
+{
+  "name": "network-tracer",
+  "version": "1.0.0",
+  "description": "Network tracer application, built with Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moefc32/network-tracer.git"
+  },
+  "author": "Faizal Chan.",
+  "license": "MIT",
+  "dependencies": {
+    "ping": "^0.4.2"
+  }
+}
